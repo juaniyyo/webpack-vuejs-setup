@@ -1,0 +1,19 @@
+{
+  "name": "webpack-vuejs-setup",
+  "version": "1.0.0",
+  "description": "Proyecto de Webpack y VueJS desde cero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Juan M Rube <jmrube10@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:juaniyyo/webpack-vuejs-setup.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.42.1"
+  }
+}
